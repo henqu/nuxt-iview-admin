@@ -1,2 +1,2 @@
 # nuxt-iview-admin
-upuupp
+upuupp放大到发顺丰
